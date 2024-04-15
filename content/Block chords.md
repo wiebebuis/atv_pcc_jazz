@@ -1,0 +1,2 @@
+A form of parallel (keyboard) harmony in close position, in which the interval structure of each chord is mostly maintained and is following the pitch collecting of the tonality of that moment. 
+Also used in big band arranging when scoring for sections.

@@ -1,0 +1,1 @@
+Short hand notation for a standard or pop song consisting of the melody and chord symbols.

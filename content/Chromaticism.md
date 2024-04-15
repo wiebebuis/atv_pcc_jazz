@@ -1,0 +1,1 @@
+In general the alteration of tones in a diatonic pitch collection by use of sharps, flats or natural signs. As a result of chromaticism the pitch collection is in  most cases enlarged to more than seven notes in an octave.

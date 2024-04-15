@@ -1,0 +1,3 @@
+Arriving at the dominant with a descending half stap in the bass (lowered 6 in major).
+Most often within a descending bass line 8 7 6 5, with a lowered 6 in major. It is a typical pattern in classical music. The label phrygian is a little bit deceiving, because the pattern was used in major-minor idiom and not in a modal idiom. The association is understandable because of the half step before the "resting tone" 5.
+[[Cadence]]

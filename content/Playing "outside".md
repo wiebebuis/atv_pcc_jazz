@@ -1,0 +1,2 @@
+A way of improvising against a harmonic background with the use of scale patterns that are different from the harmonic background. 
+Playing "outside" can be achieved by different techniques: by [[Side-stepping or -slipping]], or [[Tritone substitution]].

@@ -1,0 +1,3 @@
+In baroque and classical music a cadence with degrees IV-I.  It is also called the "Amen-cadence".
+For example I-IV-I in stead of I-V-I. In most cases the tonic note of the scale (1) is prolonged in the upper voice (the common note between I and IV). It's origin lies in contrapuntal music where ending notes in the upper voice were prolonged to indicate the approaching conclusion of a movement (or the whole work). In order to create some movement against that prolonged note in other voices and arrive gradually at the last chord, the possibilities are limited: 1 or 8 of the scale is only consonant with 3 and 6, and 4 and 6, and of course the "tonic" 1-3-5. 
+[[Cadence]]

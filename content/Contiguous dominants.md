@@ -1,0 +1,3 @@
+Contiguous dominants consist of a series of non-functional dominant chords or ii–V’s. They generally occur in one of the following patterns: ascending by half step, whole step, minor 3rd, or major 3rd; or, descending by minor 3rd or major 3rd. When the pattern is a series of ii–V’s, the first V7 does not resolve to the chord that follows it, which is really the relative ii of the next dominant chord. The result is a deceptive cadence, since the V7 does not resolve to the chord a perfect 5th or half step down as expected. Contiguous dominants actually outline a series of brief modulations.
+
+![[contiguous dominants.png]]

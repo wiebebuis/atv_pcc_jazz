@@ -1,0 +1,2 @@
+Not all jazz harmony is based on simple tonal progressions. Successions of chords may have only a tenuous relationship to a diatonic tonal structure, in an “extended tonality” similar to that which developed in art music at the turn of the 20th century. Structural chords may remain within a single key, but the chords that connect the structural points often follow another, usually contrapuntal, logic. (“Key” is used here in its broadest sense as including all the chromatic resources of a mixture of major and minor modes.)
+(omo)

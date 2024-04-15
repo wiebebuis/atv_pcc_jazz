@@ -1,0 +1,2 @@
+A chord can be extended by adding tones to the basic structure of a seventh chord: 9, 11, 13. The principle remains stacking of thirds. 
+The result is an [[Extended chord]].

@@ -1,0 +1,1 @@
+II-V-I without reaching the I. Often the II-V progression is repeated.
