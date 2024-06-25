@@ -2,3 +2,4 @@ There are two types of bebop scales, the major bebop scale and the bebop dominan
 
 The bebop dominant scale is identical to a Mixolydian mode with the addition of a major 7th.
 
+These scales have eight notes. They are not the same as the octatonic scale.

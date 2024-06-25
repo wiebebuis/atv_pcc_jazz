@@ -7,4 +7,5 @@ Symmetrical (diminished)
 Whole tone
 Altered
 Diminished 
+Octatonic
 ...

@@ -1,1 +1,1 @@
-chromatic embellishment of static harmony
+**c**hromatic **e**mbellishment of **s**tatic **h**armony
