@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: ATV_PCC_JAZZ
 ---
 This is the knowledge vaultto back up music theory courses for jazz at the Prince Clause Conservatoire.  Permanently UNDER CONSTRUCTION.
 :-)
