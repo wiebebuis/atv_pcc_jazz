@@ -1,4 +1,4 @@
-In use in jazz and pop music. A capital indicates a major triad. Minor triads are indicated with - or m after the capital, sometimes with a small letter.
+In use in jazz and pop music. A capital (uppercase) indicates a major triad. Minor triads are indicated with - or m after the capital, sometimes with a small letter (lowercase).
 Arabic numerals are used for added notes sharps/flats/natural signs for alterations.
 In principle Arabic numerals indicate absolute intervals and not scale notes. So C7, D7 and G7 are all dominant seventh chords. The 7th is always a minor seventh added to a triad. 
 In C major I7 is a Cmaj7, II7 a minor seventh chord and V7 a dominant seventh chord.
