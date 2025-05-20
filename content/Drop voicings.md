@@ -3,4 +3,4 @@ Changing the voicing of a chord in close position to a more open position by "dr
 drop two
 drop two and four
 drop three (rare)
-[[VOICING]]
+[[Voicing]]

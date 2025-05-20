@@ -1,1 +1,1 @@
-Comparable to the complete cadence IV-V-I in classical harmony.
+Comparable to the complete cadence with a S, D and T in classical harmony.

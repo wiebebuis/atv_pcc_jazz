@@ -2,7 +2,7 @@ An overarching term for music that uses for its pitch collections only diatonic 
 
 The scale patterns of the church modes are often used in jazz improvisation in connection with harmonies. For example the harmony of II7 in major can be connected to the dorian scale pattern, V7 can be connected to the mixolydian scale pattern. Of course the tonality is that of C major. The scale patterns serve as a kind of "mental grid".
 
-The term is also used for a specific type of [[harmony]] that is different from so called functional harmony. 
+The term is also used for a specific type of [[Harmony]] that is different from so called functional harmony. 
 
 In jazz harmony there is also the concept of [[Modal interchange]].
 
